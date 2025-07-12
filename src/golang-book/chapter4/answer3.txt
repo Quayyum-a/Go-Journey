@@ -1,0 +1,4 @@
+Scope refers to where a variable is accessible in your code. In Go, a variable's scope is determined by where it is declared:
+- If declared inside a function, it is only accessible within that function (local scope).
+- If declared outside any function, it is accessible throughout the package (package scope).
+- Variables starting with an uppercase letter are exported and accessible from other packages (exported scope). 

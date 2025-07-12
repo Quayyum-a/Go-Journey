@@ -1,0 +1,4 @@
+After running:
+x := 5
+x += 1
+The value of x is 6. 

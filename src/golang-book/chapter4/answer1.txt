@@ -1,0 +1,6 @@
+1. Using the var keyword:
+   var x int = 10
+   var y = 20
+
+2. Using the short variable declaration (:=):
+   z := 30 
