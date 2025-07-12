@@ -1,3 +1,0 @@
-There a two ways to create a new variable and that is 
-var input String
-x:= 65
